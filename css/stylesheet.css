@@ -1,0 +1,130 @@
+body {
+  background-color: #EEEEEE;
+  text-align: center;
+}
+
+
+
+h1 {
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  padding-bottom: 15px;
+  font-size: 5rem;
+  color: #EEEDDE;
+}
+
+.amer{
+  color: #1B1A17;
+}
+
+p{
+  font-family: 'Lato', sans-serif;
+  font-weight: 400;
+  font-style:normal;
+  font-size: 1.3rem;
+}
+
+h2 {
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3.1rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.contact-about{
+  color: #FFE162;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3rem;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+
+h3 {
+  color: #040303;
+  padding-bottom: 20px;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3.5rem;
+  letter-spacing: 1px;
+}
+
+.project-description{
+  color: #040303;
+  padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+
+}
+
+.project-inosuke{
+  margin-bottom: 70px;
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
+
+.Project{
+  color: #1B1A17;
+  padding-bottom: 10px;
+  font-family: 'League Gothic', sans-serif;
+  font-style: italic;
+  font-size: 3.5rem;
+  letter-spacing: 1px;
+}
+
+.carousel-item {
+  height: auto;
+  width: auto;
+}
+
+.project-sec{
+  padding: 50px 0 50px;
+}
+
+#contacts {
+  background-color: #05595B;
+  padding: 2.2% 20% 1%;
+  margin-bottom: 0;
+}
+
+
+#intro {
+  padding: 2.2% 20% 1%;
+}
+
+.amer-intro {
+  color: #1B1A17;
+  padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+
+.project-about{
+  color: #1B1A17;
+  padding-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+.copyright {
+  padding-top: 50px;
+  color: #040303;
+  font-weight: bold;
+  font-size: 1.2rem
+}
+
+.characters {
+  border-radius: 100%;
+  padding-bottom: 50px;
+}
+
+.xss{
+  padding-bottom: 20px;
+}
